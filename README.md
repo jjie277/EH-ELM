@@ -4,7 +4,18 @@ The code for the paper "EH-ELM: Elastic-Hypernet Extreme Learning Machine Algori
 
 Elastic-Hypernet Extreme Learning Machine Algorithm
 
-MIT License
+This repository provides a MATLAB implementation for EH-ELM, a numerically-stable Extreme Learning Machine (ELM) workflow designed for large-area spatial mapping in complex mine scenes.
+﻿
+> Note: This is an early public release.
+
+
+Citation
+﻿
+If you use this code, please cite the associated paper (to be updated once publicly available).
+﻿
+License
+﻿
+MIT License (see LICENSE).
 
 Copyright (c) 2026 jjie277
 
