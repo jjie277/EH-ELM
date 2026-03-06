@@ -9,13 +9,12 @@ This repository provides a MATLAB implementation for EH-ELM, a numerically-stabl
 Note: This is an early public release.
 
 
-**Citation**
-﻿
+Citation
+
 If you use this code, please cite the associated paper (to be updated once publicly available).
 
 ﻿
-**License**
-﻿
+License
 MIT License (see LICENSE).
 
 Copyright (c) 2026 jjie277
