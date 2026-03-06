@@ -14,6 +14,7 @@ Citation
 If you use this code, please cite the associated paper (to be updated once publicly available).
 ﻿
 License
+
 MIT License (see LICENSE).
 
 Copyright (c) 2026 jjie277
