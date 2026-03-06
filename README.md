@@ -12,7 +12,6 @@ Note: This is an early public release.
 Citation
 
 If you use this code, please cite the associated paper (to be updated once publicly available).
-
 ﻿
 License
 MIT License (see LICENSE).
