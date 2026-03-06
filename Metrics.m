@@ -1,4 +1,4 @@
-function M = metrics(y_true, y_pred)
+function M = Metrics(y_true, y_pred)
 %REGRESSION_METRICS Compute regression evaluation metrics.
 %   Outputs a struct with:
 %     RMSE, r (Pearson correlation), MAE, SD, RPD, RPIQ,
@@ -59,4 +59,5 @@ M = struct( ...
     'RPIQ', RPIQ, ...
     'maxRelErr', maxRelErr, ...
     'minRelErr', minRelErr);
+
 end
